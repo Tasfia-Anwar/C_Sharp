@@ -1,0 +1,28 @@
+I:\Spring 25\OPP Lab\First lab\bin\Debug\net9.0\First lab.exe
+I:\Spring 25\OPP Lab\First lab\bin\Debug\net9.0\First lab.deps.json
+I:\Spring 25\OPP Lab\First lab\bin\Debug\net9.0\First lab.runtimeconfig.json
+I:\Spring 25\OPP Lab\First lab\bin\Debug\net9.0\First lab.dll
+I:\Spring 25\OPP Lab\First lab\bin\Debug\net9.0\First lab.pdb
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.GeneratedMSBuildEditorConfig.editorconfig
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.AssemblyInfoInputs.cache
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.AssemblyInfo.cs
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.csproj.CoreCompileInputs.cache
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.dll
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\refint\First lab.dll
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.pdb
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\First lab.genruntimeconfig.cache
+I:\Spring 25\OPP Lab\First lab\obj\Debug\net9.0\ref\First lab.dll
+I:\Spring 25\OPP Lab\Lab_1\bin\Debug\net9.0\First lab.exe
+I:\Spring 25\OPP Lab\Lab_1\bin\Debug\net9.0\First lab.deps.json
+I:\Spring 25\OPP Lab\Lab_1\bin\Debug\net9.0\First lab.runtimeconfig.json
+I:\Spring 25\OPP Lab\Lab_1\bin\Debug\net9.0\First lab.dll
+I:\Spring 25\OPP Lab\Lab_1\bin\Debug\net9.0\First lab.pdb
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.GeneratedMSBuildEditorConfig.editorconfig
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.AssemblyInfoInputs.cache
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.AssemblyInfo.cs
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.csproj.CoreCompileInputs.cache
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.dll
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\refint\First lab.dll
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.pdb
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\First lab.genruntimeconfig.cache
+I:\Spring 25\OPP Lab\Lab_1\obj\Debug\net9.0\ref\First lab.dll
