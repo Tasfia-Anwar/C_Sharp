@@ -1,6 +1,6 @@
 ﻿using System;
 
-class PlindromeChecker
+class PalindromeChecker
 {
     static void Main()
     {
