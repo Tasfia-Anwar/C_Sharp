@@ -1,0 +1,15 @@
+I:\Spring 25\OPP Lab\Lab_10\bin\Debug\net9.0\Lab_10.exe
+I:\Spring 25\OPP Lab\Lab_10\bin\Debug\net9.0\Lab_10.deps.json
+I:\Spring 25\OPP Lab\Lab_10\bin\Debug\net9.0\Lab_10.runtimeconfig.json
+I:\Spring 25\OPP Lab\Lab_10\bin\Debug\net9.0\Lab_10.dll
+I:\Spring 25\OPP Lab\Lab_10\bin\Debug\net9.0\Lab_10.pdb
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.AssemblyInfoInputs.cache
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.AssemblyInfo.cs
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.csproj.CoreCompileInputs.cache
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.sourcelink.json
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.dll
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\refint\Lab_10.dll
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.pdb
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\Lab_10.genruntimeconfig.cache
+I:\Spring 25\OPP Lab\Lab_10\obj\Debug\net9.0\ref\Lab_10.dll
